@@ -1,0 +1,10 @@
+{
+    "name": "Metronome",
+    "description": "Metronome",
+    "version": "0.0.1",
+    "app": {
+        "background": {
+            "scripts": ["app.js"]
+        }
+    }
+}
